@@ -764,6 +764,7 @@
         "answerThree": "找到更好替代方案"
       },
       "questionTwo": {
+        "question": "您未来考虑重新订阅@:appName Pro 的可能性有多大？",
         "answerOne": "非常可能",
         "answerTwo": "稍有可能",
         "answerThree": "不确定",
@@ -2091,5 +2092,12 @@
     "ago": "前",
     "yesterday": "昨天",
     "today": "今天"
+  },
+  "subscribe": {
+    "cancelPlan": {
+      "questionTwo": {
+        "question": "您未来考虑重新订阅 AppFlowy Pro 的可能性有多大？"
+      }
+    }
   }
 }
